@@ -12,6 +12,7 @@ Run `mvn clean install` to build all sample programs
 ## Testing
 
 * Testing 1
+* Testing 2
 
 ## License
 
