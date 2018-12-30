@@ -9,6 +9,10 @@ This repository contains some sample programs. All are Maven projects and can be
 
 Run `mvn clean install` to build all sample programs
 
+## Testing
+
+* Testing 1
+
 ## License
 
 Copyright (C) 2015 M. Isuru Tharanga Chrishantha Perera
